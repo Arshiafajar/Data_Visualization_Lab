@@ -1,3 +1,5 @@
-This repository contains all the lab tasks + semester projects that were performed in the Data Visualization Lab.🤓 I am feeling very proud to share that the instructor who took this lab, seriously did a marvelous job teaching us this particular subject. Whenever I am using an application or I am looking at a general advertisement I instantly say "OMG that is such a bad visualization". That's what he used to say when we looked at our charts labs created in the initial labs. So, I ehe great instructor's name is: your. Jawad Safder ✨. I am so dumb btw because you would have read it in the lab manuals tho 🤪.
-Oh yeah, just wanna say that I hope you you get some really great knowledge from these manuals and ipynb's ✨
+This repository contains all the lab tasks + semester projects that were performed in the Data Visualization Lab.🤓
+The instructor who took this lab, seriously did a marvelous job teaching us this particular subject. Whenever I am using an application or I am looking at a general advertisement I instantly say "OMG that is such a bad visualization". That's what he used to say when he evaluated our first lab task.I am so dumb btw because you would have 
+I really hope that you get some really great knowledge from these manuals and ipynb's ✨
+
 If you ever feel confused while working with my material, do not hesitate to reach me out: etifah2124@gmail.com (⁎⁍̴̛ ₃ ⁍̴̛⁎)
